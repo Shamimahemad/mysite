@@ -1,1 +1,1 @@
-# This is gitset to command line
+# This is gitset to command lines
